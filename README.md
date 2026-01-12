@@ -2,53 +2,33 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 👤 Author
-**Amit Dubey**  
-*Full-Stack Architect & Fintech Specialist*  
-[Portfolio](https://amitdubey.me) | [GitHub](https://github.com/amitdubeyup) | [Email](mailto:amitdubeycs88@gmail.com)
-
----
-
 ## 📝 About The Project
-A professional **PHP** project built to solve real-world problems. This repository serves as a reference implementation for customizable and scalable software solutions.
+Custom software solution developed to address specific business requirements for Php Resume Portal.
 
-This project is maintained by **Amit Dubey** and reflects modern engineering practices, focusing on scalability, code readability, and performance.
+### 🔧 Key Features
+- Designed for scalability and performance
+- Modular architecture for easy maintenance
 
-## 🚀 Key Features
-- **Clean Architecture**
-- **Modular Codebase**
-- **Server-side Rendering**
+## 🛠️ Tech Stack
+*   **PHP**
 
-## 🛠️ Technology Stack
-- **Core**: PHP
-- **Infrastructure**: Git, GitHub Actions (CI/CD)
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
-## 📦 Installation & Usage
+## 📦 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone git@github.com:amitdubeyup/php-resume-portal.git
-   ```
-
-2. **Navigate to directory**
-   ```bash
-   cd php-resume-portal
-   ```
-
-3. **Install Dependencies (if applicable)**
-   ```bash
-   # For Node.js
-   npm install
-   
-   # For Python
-   # pip install -r requirements.txt
-   ```
-
-4. **Run the Application**
-   ```bash
-   # Check package.json scripts or run directly
-   npm start
-   ```
+1.  **Clone the repository**:
+    ```bash
+    git clone git@github.com:amitdubeyup/php-resume-portal.git
+    ```
+2.  **Install dependencies**:
+    ```bash
+    npm install  # or pip install -r requirements.txt
+    ```
+3.  **Run the application**:
+    ```bash
+    npm start    # or python app.py
+    ```
 
 ## 📄 License
 This project is licensed under the **MIT License**.
